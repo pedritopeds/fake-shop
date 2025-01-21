@@ -62,7 +62,7 @@ module "eks" {
 }
 
 variable "eks_name" {
-  default = "aula-eks"
+  default = "aula-k8s"
 }
 
 variable "eks_version" {
